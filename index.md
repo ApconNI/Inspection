@@ -1,2 +1,1 @@
-## Apcon Inspection App
-<img src="Neartu icon light small.png" alt="hi" class="inline"/>
+## <img src="Neartu icon light small.png" alt="hi" class="inline"/> Apcon Inspection App
